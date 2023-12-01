@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+
+.env
+
+/src/static/fake/*
+!/src/static/fake/.gitkeep
+
+/src/static/real/*
+!/src/static/real/.gitkeep
